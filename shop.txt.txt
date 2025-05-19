@@ -1,0 +1,5 @@
+12-03-2025      12:00   belagavi        tv      12000   visa
+12-02-2020      3-00    hubli   speaker 1000    cash
+10-02-2023      11:00   dharwad tv      5000    cash
+11-12-2025      10:00   belagavi        watch   13000   cash
+
